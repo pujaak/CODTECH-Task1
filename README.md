@@ -6,6 +6,9 @@ Duration: 1st June 2024 to 30th June 2024
 Mentor: G.SRAVANI
 
 **Project: To-Do List Web Application**
+<img width="959" alt="todo" src="https://github.com/pujaak/CODTECH-Task1/assets/83128436/e0fff8c0-029c-440c-a389-473c6f5868c6">
+
+
 **Introduction**
 The To-Do List Web App is a simple application that allows users to manage their daily tasks. Users can add new tasks, mark tasks as completed, and delete tasks. 
 This documentation provides a comprehensive guide to setting up, understanding, and using the To-Do List Web App.
